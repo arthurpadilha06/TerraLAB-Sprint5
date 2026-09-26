@@ -1,0 +1,17 @@
+{
+  "name": "sprint5",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ArthurPadilha",
+  "license": "ISC",
+  "description": "webScrapingCode",
+  "type": "module",
+  "dependencies": {
+    "cheerio": "^1.2.0",
+    "csv-parse": "^7.0.2"
+  }
+}
